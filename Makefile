@@ -3,7 +3,7 @@ INKSCAPE = inkscape
 FFMPEG = ffmpeg
 SYNFIG = synfig
 
-NAME = emoji-template
+NAME = blobazuki
 SCALE = 128
 
 SOURCES = $(filter-out $(wildcard categories/animations/*.svg),$(wildcard categories/*.svg) $(wildcard categories/**/*.svg))
