@@ -1,0 +1,12 @@
+version = 1
+
+[[annotations]]
+path = ["./scripts/*", "Makefile"]
+SPDX-FileCopyrightText = "2026 ikasoba"
+SPDX-License-Identifier = "MIT"
+
+# change to your license
+[[annotations]]
+path = ["readme.md", "metadata.csv", "categories/**/*"]
+SPDX-FileCopyrightText = "2026 ikasoba"
+SPDX-License-Identifier = "CC0-1.0"
