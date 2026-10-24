@@ -10,5 +10,5 @@ fan-emojis for azuki
 This emoticon is licensed under CC BY SA 4.0.
 
 <p align="center">
-<img width="128" height="128" alt="blobazuki" src="https://github.com/user-attachments/assets/9c2997e6-7036-4fb0-ab62-8ec8fa300d4b" />
+<img width="96" height="96" alt="blobazuki" src="https://github.com/ikasoba/blobazuki/raw/main/categories/blobazuki.svg" />
 </p>
